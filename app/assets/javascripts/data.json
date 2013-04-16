@@ -1,0 +1,69 @@
+﻿{
+    "name": "Soft Eng",
+    "is_expanded": "true",
+    "children": [
+        {
+            "name": "Developer",
+            "is_expanded": "true",
+            "children": [
+                {
+                    "name": "C",
+                    "is_expanded": "false",
+                    "children": []
+                },
+                {
+                    "name": "C++",
+                    "is_expanded": "false",
+                    "children": []
+                },
+                {
+                    "name": "Java",
+                    "is_expanded": "false",
+                    "children": []
+                },
+                {
+                    "name": "Ruby",
+                    "is_expanded": "false",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Tester",
+            "is_expanded": "false",
+            "children": [
+                {
+                    "name": "QTI",
+                    "is_expanded": "false",
+                    "children": []
+                },
+                {
+                    "name": "Manual",
+                    "is_expanded": "false",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "GUI Designer",
+            "is_expanded": "false",
+            "children": [
+                {
+                    "name": "JS",
+                    "is_expanded": "false",
+                    "children": []
+                },
+                {
+                    "name": "CSS",
+                    "is_expanded": "false",
+                    "children": []
+                },
+                {
+                    "name": "Photoshop",
+                    "is_expanded": "false",
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
